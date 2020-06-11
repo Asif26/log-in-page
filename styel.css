@@ -76,6 +76,10 @@ form{
     background-color: gold;
 
 }
+.main{
+    flex-wrap: wrap;
+    
+}
 fieldset{
     
     border: 1px solid gray;
